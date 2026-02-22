@@ -1,11 +1,12 @@
-🌍 Global Economic Performance Dashboard (2000–2024)
-📌 Project Overview
+# 🌍 Global Economic Performance Dashboard (2000–2024)
+
+## 📌 Project Overview
 
 This project analyzes 24 years (2000–2024) of global macroeconomic data to understand long-term trends in GDP growth and inflation patterns across countries.
 
 The objective was to transform raw economic data into meaningful business insights using Python and Power BI.
 
-🎯 Objectives
+## 🎯 Objectives
 
 Analyze global GDP trends over time
 
@@ -17,7 +18,7 @@ Compare country-level economic performance
 
 Identify macroeconomic patterns during crisis periods (2008 & 2020)
 
-🛠 Tools & Technologies
+## 🛠 Tools & Technologies
 
 Python (Pandas, Matplotlib, Seaborn)
 
@@ -29,7 +30,8 @@ Time Series Analysis
 
 Data Cleaning & Transformation
 
-📊 Dashboard Features
+## 📊 Dashboard Features
+
 🔹 KPI Cards
 
 Global GDP (Latest Year)
@@ -62,7 +64,7 @@ Correlation Analysis (GDP vs Inflation)
 
 Year-over-Year Growth Calculations using DAX
 
-📈 Key Insights
+## 📈 Key Insights
 
 Global GDP experienced major contraction during the 2008 financial crisis and 2020 pandemic.
 
@@ -72,7 +74,8 @@ Emerging economies displayed higher growth volatility.
 
 Post-2021 data indicates macroeconomic recovery.
 
-📂 Project Structure
+## 📂 Project Structure
+
 📁 Data
    └── cleaned_global_gdp_inflation_2000_2024.csv
 
@@ -81,7 +84,8 @@ Post-2021 data indicates macroeconomic recovery.
 
 📁 Python_Analysis
    └── GDP_Inflation_Analysis.ipynb
-💼 Business Value
+   
+## 💼 Business Value
 
 This dashboard enables:
 
@@ -95,7 +99,7 @@ Country-level comparison
 
 Data-driven macroeconomic insights
 
-🚀 Future Improvements
+## 🚀 Future Improvements
 
 ARIMA-based GDP Forecasting
 
@@ -105,7 +109,24 @@ Interactive Web Dashboard (Streamlit)
 
 Advanced Time-Series Decomposition
 
-👤 Author
+## 📊 Dashboard Overview
+
+![alt](https://github.com/Daniyal07420/Global-Economic-Performance-Dashboard-2000-2024-/blob/main/Global%20Economic%20dashboard%20(2000-2024).png?raw=true)
+
+## 📊 Charts Overview
+
+![alt](https://github.com/Daniyal07420/Global-Economic-Performance-Dashboard-2000-2024-/blob/main/Average%20Global%20GDP%20Trend.png?raw=true)
+![alt](https://github.com/Daniyal07420/Global-Economic-Performance-Dashboard-2000-2024-/blob/main/Average%20Global%20Inflation%20Trend.png?raw=true)
+![alt](https://github.com/Daniyal07420/Global-Economic-Performance-Dashboard-2000-2024-/blob/main/Bottom%2010%20Countries%20by%20average%20GDP.png?raw=true)
+![alt](https://github.com/Daniyal07420/Global-Economic-Performance-Dashboard-2000-2024-/blob/main/GDP%20Trend%20in%202008.png?raw=true)
+![alt](https://github.com/Daniyal07420/Global-Economic-Performance-Dashboard-2000-2024-/blob/main/GDP%20Trend%20in%202020.png?raw=true)
+![alt](https://github.com/Daniyal07420/Global-Economic-Performance-Dashboard-2000-2024-/blob/main/GDP%20vs%20Inflation.png?raw=true)
+![alt](https://github.com/Daniyal07420/Global-Economic-Performance-Dashboard-2000-2024-/blob/main/Global%20GDP%20and%20Inflation%20(2000-2024).png?raw=true)
+![alt](https://github.com/Daniyal07420/Global-Economic-Performance-Dashboard-2000-2024-/blob/main/Global%20GDP%20with%20Rolling%20Average.png?raw=true)
+![alt](https://github.com/Daniyal07420/Global-Economic-Performance-Dashboard-2000-2024-/blob/main/Inflation%20vs%20GDP%20Growth.png?raw=true)
+![alt](https://github.com/Daniyal07420/Global-Economic-Performance-Dashboard-2000-2024-/blob/main/TOP%2010%20Countries%20by%20Average%20GDP.png?raw=true)
+
+## 👤 Author
 
 Rana Daniyal
 Aspiring Data Analyst | Python | SQL | Power BI
