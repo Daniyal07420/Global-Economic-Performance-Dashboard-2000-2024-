@@ -129,4 +129,5 @@ Advanced Time-Series Decomposition
 ## 👤 Author
 
 Rana Daniyal
-Aspiring Data Analyst | Python | SQL | Power BI
+
+Aspiring Data Analyst | Python | SQL | Power BI | Excel
